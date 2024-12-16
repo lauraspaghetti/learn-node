@@ -72,6 +72,7 @@ To get a local copy of the project up and running, follow these steps:
    cd frontend
    npm start
    ```
+Once the project is set up, please refer to part 4 of the interface, as it includes all the features listed above.
 
 ## Technologies Used
 
